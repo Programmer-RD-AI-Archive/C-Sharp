@@ -19,6 +19,11 @@ namespace important
             string[] friends = {"test","grgr","grgr"};
             friends[0] = "test";
             Console.WriteLine($"{friends[1]}");
+            Console.WriteLine($"{input()}");
+        }
+        public static string input(){
+            string whatever = Console.ReadLine();
+            return whatever;
         }
     }
 }
