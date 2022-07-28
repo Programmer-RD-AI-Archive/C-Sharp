@@ -1,0 +1,16 @@
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/obj/Debug/net5.0/variables.csproj.AssemblyReference.cache
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/obj/Debug/net5.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/obj/Debug/net5.0/variables.AssemblyInfoInputs.cache
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/obj/Debug/net5.0/variables.AssemblyInfo.cs
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/obj/Debug/net5.0/variables.csproj.CoreCompileInputs.cache
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/bin/Debug/net5.0/variables
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/bin/Debug/net5.0/variables.deps.json
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/bin/Debug/net5.0/variables.runtimeconfig.json
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/bin/Debug/net5.0/variables.runtimeconfig.dev.json
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/bin/Debug/net5.0/variables.dll
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/bin/Debug/net5.0/ref/variables.dll
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/bin/Debug/net5.0/variables.pdb
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/obj/Debug/net5.0/variables.dll
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/obj/Debug/net5.0/ref/variables.dll
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/obj/Debug/net5.0/variables.pdb
+/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Beginner/variables/obj/Debug/net5.0/variables.genruntimeconfig.cache
