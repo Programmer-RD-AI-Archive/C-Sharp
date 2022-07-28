@@ -5,15 +5,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace important
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+            try
+            {
+                Console.Write("Enter a Number : ");
+                int num1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter a Number : ");
+                int num2 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(num1 / num2);
+                Console.ReadLine();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine (e);
+            }
+            catch (DivideByZeroException e)
         }
-        
     }
 }
