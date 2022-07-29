@@ -11,20 +11,33 @@ namespace important
     {
         static void Main(string[] args)
         {
-            try
-            {
-                Console.Write("Enter a Number : ");
-                int num1 = Convert.ToInt32(Console.ReadLine());
-                Console.Write("Enter a Number : ");
-                int num2 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine(num1 / num2);
-                Console.ReadLine();
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine (e);
-            }
-            catch (DivideByZeroException e)
+            Book book1 =
+                new Book("The C# Programming Language",
+                    "Microsoft",
+                    "Microsoft Press",
+                    2000,
+                    496,
+                    "978-0-7356-6745-7");
+            Console.WriteLine(Book.songCount);
+
+            Console.ReadLine();
+        }
+    }
+
+    class BadProgram : Program
+    {
+        static void Main(string[] args)
+        {
+            Book book1 =
+                new Book("The C# Programming Language",
+                    "Microsoft",
+                    "Microsoft Press",
+                    2000,
+                    496,
+                    "978-0-7356-6745-7");
+            Console.WriteLine(Book.songCount);
+
+            Console.ReadLine();
         }
     }
 }
