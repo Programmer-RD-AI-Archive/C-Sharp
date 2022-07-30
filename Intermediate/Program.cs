@@ -1,12 +1,15 @@
-using System;
+﻿using System;
+using System.Collections.Generic;
 
-namespace Program
+namespace
+Intermediate // organization structure
 {
-    class Program
+    class Program // class
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // function // dotnet run -- {some text}
         {
-            Console.WriteLine("Hello Work!");
+            string input_by_user = Console.ReadLine();
+            Console.WriteLine (input_by_user);
         }
     }
 }
