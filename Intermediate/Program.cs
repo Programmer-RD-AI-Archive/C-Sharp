@@ -7,6 +7,7 @@ namespace Intermediate
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Guid.NewGuid());
         }
     }
 }
