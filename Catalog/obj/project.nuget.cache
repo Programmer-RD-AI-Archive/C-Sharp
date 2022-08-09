@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fkDz/fU+6Djt/Y0vmXR6xvrTjXHsUdL+2ycvhip/Sx6NYNmlbCD1s+lSOFxMsyrM92bxqOqrEMko0hA4H1qUsQ==",
+  "success": true,
+  "projectFilePath": "/media/indika/Sync/Programmer-RD-AI/Programming/Learning/C-Sharp/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/home/indika/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/indika/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/indika/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/indika/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/indika/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/indika/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
